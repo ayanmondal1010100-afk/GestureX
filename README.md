@@ -41,7 +41,7 @@ Windows Setup
 
 Clone the repository
 
-bash   git clone https://github.com/yourusername/GestureX.git
+bash   git clone [https://github.com/yourusername/GestureX.git](https://github.com/ayanmondal1010100-afk/GestureX.git)
    cd GestureX
 
 Create a virtual environment
